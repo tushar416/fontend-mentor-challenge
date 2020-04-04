@@ -1,0 +1,177 @@
+body{
+  text-align: center;
+
+  font-size: 18px;
+font-style: 'Bai Jamjuree',sans-serif;
+margin:0;
+}
+h1{
+font-style: italic;
+}
+.link-one{
+  background-color:#26BAA4;
+  text-decoration: none;
+  padding: 14px;
+  border-radius:18px;
+  margin-right: 14px;
+  color:white;
+  border:solid;
+}
+.link-one:hover{
+  background-color:skyblue;
+}
+.link-two{
+  background-color:hsl(233, 100%, 69%);
+  text-decoration: none;
+  padding: 14px;
+  border-radius:18px;
+
+  color:white ;
+
+  border:solid;
+}
+.link-two:hover{
+  background-color: skyblue;
+}
+.icon{
+  margin:50px;
+
+}
+.top-section{
+  background-image: url(../images/bg-header-desktop.png);
+  background-repeat: no-repeat;
+  line-height: 1.5;
+    background-size: cover;
+    padding-top: 50px;
+padding-bottom: 100px
+}
+.first-para{
+  margin: 30px auto 50px auto;
+  width:40%;
+
+}
+p{
+  color:hsl(201, 11%, 66%);
+}
+.para-two{
+  width: 50%;
+margin:auto;
+}
+.mid1{
+  margin:100px auto;
+  line-height: 1.5;
+}
+.image-computer{
+height: 600px;
+width:600px;
+float: left;
+margin-right: 100px;
+
+}
+.para-three{
+margin:100px auto;
+}
+.first{
+  padding-top: 100px;
+  width: 70%;
+  margin:auto;
+}
+.second{
+  margin:100px auto;
+  width: 70%;
+}
+.third{
+  margin:100px auto;
+width:70%;
+}
+.bs1{
+  margin: 150px auto;
+}
+.device{
+  padding-top:70px;
+}
+.access{
+  line-height: 1.5;
+  width: 40%;
+  margin: auto;
+}
+.row{
+  width: 30%;
+display: inline-block;
+margin:auto 30px 100px auto;
+
+}
+.clipboard{
+
+}
+.logo{
+padding-left: 100px;
+
+}
+.ios{
+margin:150px auto;
+width:50%;
+
+}
+.link-four{
+  background-color:#26BAA4;
+  text-decoration: none;
+  padding: 14px;
+  border-radius:18px;
+  margin-right: 14px;
+  color:white;
+  border:solid;
+}
+.link-four:hover{
+  background-color:skyblue;
+}
+.link-five{
+  background-color:hsl(233, 100%, 69%);
+  text-decoration: none;
+  padding: 14px;
+  border-radius:18px;
+
+  color:white ;
+
+  border:solid;
+}
+.link-five:hover{
+  background-color: skyblue;
+}
+.aa{
+margin:50px;
+}
+.FAQs{
+  background-color:#f5f6f8;
+padding:50px 0;
+margin:0;
+}
+.logo2{
+  width:50px;
+  text-align: left;
+padding-left: 100px;
+
+}
+
+.last-icons{
+  display: inline-block;
+  float: right;
+  padding-right: 60px;
+  padding-top: 50px;
+}
+.faq{
+  display: inline-block;
+  margin-left: 200px;
+  text-align: left;
+}
+.policy{
+  display: inline-block;
+  margin-left: 100px;
+}
+.install{
+  display: inline-block;
+  margin-left: 100px;
+}
+.goo{
+  text-align: left;
+}
